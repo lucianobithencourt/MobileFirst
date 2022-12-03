@@ -42,11 +42,9 @@ img {
 
 /* ID'S */
 
-#phone{
-    display:block;
-}
-
-#tablet,#print,#tv,#pc {
-display: none;
-}
+#phone {display:block;;}
+#tablet{display:none;}
+#print{display:none;}
+#pc{display:none;}
+#tv{display:none;}
 
